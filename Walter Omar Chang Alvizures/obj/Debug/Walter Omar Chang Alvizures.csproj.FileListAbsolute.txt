@@ -1,0 +1,6 @@
+C:\Users\wchang\Desktop\Nueva carpeta\Primer Parcial\Walter Omar Chang Alvizures\bin\Debug\Walter Omar Chang Alvizures.exe.config
+C:\Users\wchang\Desktop\Nueva carpeta\Primer Parcial\Walter Omar Chang Alvizures\bin\Debug\Walter Omar Chang Alvizures.exe
+C:\Users\wchang\Desktop\Nueva carpeta\Primer Parcial\Walter Omar Chang Alvizures\bin\Debug\Walter Omar Chang Alvizures.pdb
+C:\Users\wchang\Desktop\Nueva carpeta\Primer Parcial\Walter Omar Chang Alvizures\obj\Debug\Walter Omar Chang Alvizures.csprojResolveAssemblyReference.cache
+C:\Users\wchang\Desktop\Nueva carpeta\Primer Parcial\Walter Omar Chang Alvizures\obj\Debug\Walter Omar Chang Alvizures.exe
+C:\Users\wchang\Desktop\Nueva carpeta\Primer Parcial\Walter Omar Chang Alvizures\obj\Debug\Walter Omar Chang Alvizures.pdb
